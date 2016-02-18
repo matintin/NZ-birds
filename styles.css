@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+main { 
+	width: 100%;
+	background-color: #ddd;
+	height: 800px;
+}
+.imgSlider {
+	width: 90%;
+	margin:0 auto;
+	display: flex;
+	flex-wrap:wrap;
+}
